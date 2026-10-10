@@ -103,8 +103,6 @@ Two duplicate trip records were also identified and removed. Trip records with m
 - `README.md` — Project overview, business questions, KPIs, findings, and conclusion.
 - [Zoomride Sql Project Analysis ](zoomride_esther.sql_)
 
-*Ensure the SQL filename above matches the actual filename in your GitHub repository.*
-
 ## 8. Conclusion
 
 This project demonstrates  SQL can be used to clean data, investigate data-quality issues, and analyze business performance. Lagos led the cities in completed-trip revenue, December 2025 recorded the highest monthly revenue, and Economy vehicles generated the most revenue among the vehicle categories analyzed.
