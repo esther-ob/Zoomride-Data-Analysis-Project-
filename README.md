@@ -105,6 +105,4 @@ Two duplicate trip records were also identified and removed. Trip records with m
 
 ## 8. Conclusion
 
-This project demonstrates  SQL can be used to clean data, investigate data-quality issues, and analyze business performance. Lagos led the cities in completed-trip revenue, December 2025 recorded the highest monthly revenue, and Economy vehicles generated the most revenue among the vehicle categories analyzed.
-
-Based on these findings, Lagos is a strong candidate for further investment evaluation. Before committing resources, ZoomRide should also compare operating costs, profit margins, driver availability, and future demand to determine which city offers the best return on investment.
+The analysis identified Lagos as the leading city by revenue, generating 218,890 from 93 completed trips. December 2025 was the strongest month, earning 66,980, while Economy vehicles generated the highest revenue by vehicle type at 262,550 across 121 completed trips. The project also revealed data-quality issues, including inconsistent city names and duplicate trip records, which could lead to inaccurate reports if left unresolved. Based on these findings, I recommend that ZoomRide consider investing in Lagos, while comparing operating costs and profit margins across cities before making a final investment decision.
