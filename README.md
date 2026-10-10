@@ -1,9 +1,9 @@
-# Zoomride-Data-Analysis-Project
+# Zoomride-SQL-Project
 ZoomRide is a company that sells rides in cars and bikes, like Uber or Bolt. It works in 6 cities: Lagos, Abuja, Port Harcourt, Nairobi, Accra and Kampala.
 
 ## Project Overview
 
-ZoomRide is a ride-hailing business operating across multiple cities. This project uses SQL to analyze trip records, customer activity, revenue performance, and vehicle-type performance.
+ZoomRide is a ride-hailing business operating across multiple cities. In this project i used MySQL(run on OneCompiler, an online SQL editor) to explore a messy dataset, clean it, and  analyze trip records, customer activity, revenue performance, and vehicle-type performance to answer business question.
 
 The objective is to answer key business questions, identify data-quality issues, and generate actionable insights that can help management make informed business decisions.
 
