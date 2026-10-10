@@ -101,7 +101,7 @@ Two duplicate trip records were also identified and removed. Trip records with m
 ## 7. Files in the Repository
 
 - `README.md` — Project overview, business questions, KPIs, findings, and conclusion.
-- [Zoomride Sql Project Analysis ](zoomride_esther.sql)
+- [Zoomride Sql Project Analysis ](zoomride_esther.sql_)
 
 *Ensure the SQL filename above matches the actual filename in your GitHub repository.*
 
